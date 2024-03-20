@@ -13,10 +13,6 @@ I'm passionate about learning and always looking to expand my skills in these ar
 
 I am currently a beginner, but I'm eager to learn and grow in the fields of Data Science and Web Development. I'm open to collaborating on projects and gaining practical experience.
 
-## 💞️ Looking to Collaborate On
-
-I'm open to collaborating on projects related to Data Science, Web Development, or Software Development. If you have an interesting project or idea, feel free to reach out.
-
 ## 📫 How to Reach Me
 
 You can reach me on GitHub or connect with me on [LinkedIn](https://www.linkedin.com/in/chandan-shukla-34b685223) for professional inquiries.
